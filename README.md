@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, it's Rahmath
 
-<!--
-**rahmath25/rahmath25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 Bachelor's in Engineering Graduate 🎓
+- 📚 Data Science Bootcamp Alumnus at WBS Coding School Berlin 🚀
+- 🐍 Programming language : SQL, C, C++, Java, CSS, HTML, Python and its libraries:Pandas, Seaborn, Matplotlib, NumPy, Requests, and Beautiful Soup, Scikit-Learn 🐼📈📊
+- 💾 Experienced with Databases: Oracle and MySQL 📚🔍
+- 📊 Skilled in Data Visualization with Tableau 📈✨
+- ☁️ Familiar with AWS cloud services ☁️
+- 🔍 Inquisitive by Nature, Passionate about Data Analytics and Data Science 📊
+- 🛠️ Enjoys taking on data analytics and data science projects with zeal! 💻📊
+- 🍳 Enthusiastic Cook 🍽️ and Avid Traveler ✈️
+- 🇩🇪 Currently embarking on the exciting journey of mastering German
+- 🌎 Can speak in English, Malayalam and some Hindi
