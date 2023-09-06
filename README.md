@@ -21,4 +21,15 @@
   
 - 🇩🇪 Currently embarking on the exciting journey of mastering German
   
-- 🌎 Can speak in English, Malayalam and some Hindi
+- 🌎 Can speak in English, Malayalam and some Hindi and German
+
+  <h2 align="center"> 🤝🏻 Connect with me </h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahmath-rahmath/">
+   <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  <a href="mailto:rahmath.rahim15@gmail.com">
+     <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+  </a>
+</p>
