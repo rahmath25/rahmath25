@@ -1,7 +1,7 @@
 ### Hi there 👋, it's Rahmath
 
 
-- 👨‍🎓 Bachelor's in Engineering Graduate 🎓
+- 👨‍🎓 Bachelor's in Computer Science Engineering Graduate 🎓
   
 - 📚 Data Science Bootcamp Alumnus at WBS Coding School Berlin 🚀
   
