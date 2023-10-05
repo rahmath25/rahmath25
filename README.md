@@ -1,23 +1,23 @@
 ### Hi there 👋, it's Rahmath
 
 
-- 👨‍🎓 Bachelor's in Computer Science Engineering Graduate 🎓
+- 👨‍🎓 Bachelor's in Computer Science Engineering Graduate 
   
-- 📚 Data Science Bootcamp Alumnus at WBS Coding School Berlin 🚀
+- 📚 Data Science Bootcamp Alumnus at WBS Coding School Berlin 
   
-- 🐍 Programming language : SQL, C, C++, Java, CSS, HTML, Python and its libraries:Pandas, Seaborn, Matplotlib, NumPy, Requests, and Beautiful Soup, Scikit-Learn 🐼📈📊
+- 🐍 Programming language : SQL, C, C++, Java, CSS, HTML, Python and its libraries:Pandas, Seaborn, Matplotlib, NumPy, Requests, and Beautiful Soup, Scikit-Learn
   
-- 💾 Experienced with Databases: Oracle and MySQL 📚🔍
+- 💾 Experienced with Databases: Oracle and MySQL
   
-- 📊 Skilled in Data Visualization with Tableau 📈✨
+- 📊 Skilled in Data Visualization with Tableau 
   
 - ☁️ Familiar with AWS cloud services ☁️
   
 - 🔍 Inquisitive by Nature, Passionate about Data Analytics and Data Science 📊
   
-- 🛠️ Enjoys taking on data analytics and data science projects with zeal! 💻📊
+- 🛠️ Enjoys taking on data analytics and data science projects with zeal!
   
-- 🍳 Enthusiastic Cook 🍽️ and Avid Traveler ✈️
+- 🍳 Enthusiastic Cook and Avid Traveler ✈
   
 - 🇩🇪 Currently embarking on the exciting journey of mastering German
   
